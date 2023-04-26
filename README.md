@@ -5,7 +5,7 @@
  the Aim is to provide a comprehensive overview of supervised learning and apply
  various algorithms to assess their comparative accuracy.
  
- #STEPS THAT SHOULD BE FOLLOWED:
+ # STEPS THAT SHOULD BE FOLLOWED:
  
 # 1.Import data:
 
@@ -30,7 +30,9 @@
   processed Titanic dataset and compare their accuracy scores. To start, we need to import all of the algorithms.
 
 # Conclusion
+
   a.Random Forests have provided the most accurate predictions.
+  
   b.It is worth noting that we have not yet implemented any model improvements to enhance the accuracy.
 
 
